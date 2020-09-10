@@ -124,12 +124,11 @@ footer, .cards-class {
         font-size: 40px;
     }
     footer {
-        font-size: 17px;
-        margin: 30px;
+        display: none;
     }
     .cards-class {
         font-size: 15px;
-        width: 95%;
+        width: 88%;
         margin: 0 15px 15px;
     }
     .cards {
