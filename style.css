@@ -117,20 +117,19 @@ footer, .cards-class {
 
 @media (max-width: 1020px) {
     body {
-        background-image: url(https://64.media.tumblr.com/256943a21cf93c11b4836efa396e224c/17e5dd0f8d65beb8-d1/s2048x3072/70d55ceb61e3006c9ab0e2aedf8bda944f358714.jpg);
-        background-repeat: no-repeat;
-        background-attachment: fixed;
+        background: black;
     }
     h1 {
         margin-bottom: 0;
         font-size: 40px;
     }
     footer {
-        display: none;
+        font-size: 17px;
+        margin: 30px;
     }
     .cards-class {
         font-size: 15px;
-        width: 85%;
+        width: 95%;
         margin: 0 15px 15px;
     }
     .cards {
