@@ -133,5 +133,6 @@ footer, .cards-class {
     }
     .cards {
         display: inline-block;
+        margin-top: 20px;
     }
 }
